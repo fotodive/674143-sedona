@@ -1,6 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Юлия Залозная](https://up.htmlacademy.ru/htmlcss/21/user/674143).
+* Наставник: "Никита Сигов" (https://htmlacademy.ru/profile/crazer).
 
 ---
 
